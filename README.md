@@ -66,4 +66,6 @@ Collect the list of information security courses of universities and communities
 - 資安攻防
   - 課程教材以 SeedLab 為主 
 
-
+### 中山大學資安社
+- 社團成立約 2 年，目前暫無資安特定主軸。
+- [Facebook link](https://www.facebook.com/nsysuisc/)
