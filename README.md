@@ -28,6 +28,10 @@ Collect the list of information security courses of universities and communities
 ### ​Network and Information Security Research Association 輔仁大學資訊安全研討會
 - [NISRA 基礎資安漏洞靶機](https://github.com/N15RA/nisra-target-drone)
 
+### 中山大學資安社
+- 社團成立約 2 年，目前暫無資安特定主軸。
+- [Facebook link](https://www.facebook.com/nsysuisc/)
+
 ## 各校資安課程
 
 ### 三校合開資安課程
@@ -66,6 +70,4 @@ Collect the list of information security courses of universities and communities
 - 資安攻防
   - 課程教材以 SeedLab 為主 
 
-### 中山大學資安社
-- 社團成立約 2 年，目前暫無資安特定主軸。
-- [Facebook link](https://www.facebook.com/nsysuisc/)
+
