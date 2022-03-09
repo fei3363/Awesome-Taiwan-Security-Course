@@ -5,6 +5,8 @@ Collect the list of information security courses of universities and communities
 ## 資安社群 / 資安社團 / 資安計畫
 
 ### 台灣科技大學資安研究社
+- [2021社課影片]https://www.youtube.com/watch?v=6WpsrWXyS6U&list=PLHP-B3mcSY_5r5AJsZyTZLwjX9z8v_b5x&index=11&ab_channel=NTUSTISC%EF%BC%8D%E5%8F%B0%E7%A7%91%E5%A4%A7%E8%B3%87%E8%A8%8A%E5%AE%89%E5%85%A8%E7%A0%94%E7%A9%B6%E7%A4%BE)
+- [2022資源平台](https://ntusthack.feifei.tw/)
 
 ### 逢甲大學黑客社
 
