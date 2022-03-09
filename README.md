@@ -25,6 +25,9 @@ Collect the list of information security courses of universities and communities
 - [109 學年度上學期社課](https://bamboofox.cs.nctu.edu.tw/courses/12/materials)
 - [110 學年度上學期社課](https://bamboofox.cs.nctu.edu.tw/courses/13/materials)
 
+### ​Network and Information Security Research Association 輔仁大學資訊安全研討會
+- [NISRA 基礎資安漏洞靶機](https://github.com/N15RA/nisra-target-drone)
+
 ## 各校資安課程
 
 ### 三校合開資安課程
