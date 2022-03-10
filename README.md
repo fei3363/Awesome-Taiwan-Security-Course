@@ -5,13 +5,13 @@ Collect the list of information security courses of universities and communities
 ## 資安社群 / 資安社團 / 資安計畫
 
 ### 台灣科技大學資安研究社
-- [2021社課影片](https://www.youtube.com/watch?v=6WpsrWXyS6U&list=PLHP-B3mcSY_5r5AJsZyTZLwjX9z8v_b5x&index=11&ab_channel=NTUSTISC%EF%BC%8D%E5%8F%B0%E7%A7%91%E5%A4%A7%E8%B3%87%E8%A8%8A%E5%AE%89%E5%85%A8%E7%A0%94%E7%A9%B6%E7%A4%BE)
-- [2022資源平台](https://ntusthack.feifei.tw/)
+- [2021 社課影片](https://www.youtube.com/watch?v=6WpsrWXyS6U&list=PLHP-B3mcSY_5r5AJsZyTZLwjX9z8v_b5x&index=11&ab_channel=NTUSTISC%EF%BC%8D%E5%8F%B0%E7%A7%91%E5%A4%A7%E8%B3%87%E8%A8%8A%E5%AE%89%E5%85%A8%E7%A0%94%E7%A9%B6%E7%A4%BE)
+- [2022 資源平台](https://ntusthack.feifei.tw/)
 
 ### 逢甲大學黑客社
 
 ### 東海大學駭客社
-- [2021社課資源](https://github.com/jonafk555/2021Thu_Hackers_Club_WebSec)
+- [2021 社課資源](https://github.com/jonafk555/2021Thu_Hackers_Club_WebSec)
 
 ### 教育部資訊安全人才培育計畫推動辦公室
 
@@ -41,12 +41,18 @@ Collect the list of information security courses of universities and communities
   - 交通大學 程式安全
   - 教材蒐集
     - 2019
-      - [PWN](https://github.com/yuawn/NTU-Computer-Security)
+      - [Pwn](https://github.com/yuawn/NTU-Computer-Security)
+    - 2020
+      - [Crypto](https://github.com/oalieno/Crypto-Course)
+      - [Reverse](https://speakerdeck.com/terrynini) (slides)
     - 2021
       - [Web](https://github.com/splitline/How-to-Hack-Websites)
       - [Reverse](https://github.com/LJP-TW/NYCU-Secure-Programming)
       - [Pwn](https://github.com/u1f383/Software-Security-2021)
 
+### 臺灣大學
+
+- 網路攻防實習 (EE)
 
 ### 臺灣科技大學
 - 網頁安全
@@ -58,7 +64,7 @@ Collect the list of information security courses of universities and communities
 
 ### 中央大學
 - 電腦攻擊與防禦
-  -  [2021課程](https://staff.csie.ncu.edu.tw/hsufh/COURSES/FALL2021/attackdefense.html)
+  -  [2021 課程](https://staff.csie.ncu.edu.tw/hsufh/COURSES/FALL2021/attackdefense.html)
 
 
 
