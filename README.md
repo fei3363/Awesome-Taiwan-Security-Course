@@ -42,7 +42,7 @@
 
 ### 臺灣師範大學
 - 資安攻防
-  - 課程教材以 SeedLab 為主 
+  - 課程教材以 [SeedLab](https://seedsecuritylabs.org/labs.html) 為主 
   - [110-1](https://sites.google.com/gapps.ntnu.edu.tw/neokent/teaching/2021fall-information-security-a-hands-on-approach?authuser=0)
 
 ## 資安社群 / 資安社團 / 資安計畫
