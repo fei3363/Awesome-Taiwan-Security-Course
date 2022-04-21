@@ -1,11 +1,11 @@
 # Awesome Taiwan Security Course
-收集臺灣各大學、資安社團、社群、計畫能提升「資安實務」能力的課程、簡報、連結
+收集臺灣各大學、資安社團、社群、計畫等能提升「資安實務」能力的課程、簡報與連結。
 
 
 ## 各校資安課程
 
 ### 三校合開資安課程
-  - 本課程以 CTF 四大面向進行重點授課，Web、PWN、Crypto、Reverse
+  - 本課程以 CTF 四大面向進行重點授課：Web、PWN、Crypto、Reverse
   - 各大學對應課名
     - 臺灣大學 計算機安全
     - 臺灣科技大學 資訊安全實務
@@ -52,6 +52,8 @@
 - [2022 資源平台](https://ntusthack.feifei.tw/)
 
 ### 逢甲大學黑客社
+
+### 中央大學CTF讀書會
 
 ### 東海大學駭客社
 - [2021 社課資源](https://github.com/jonafk555/2021Thu_Hackers_Club_WebSec)
