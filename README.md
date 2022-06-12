@@ -57,9 +57,9 @@
 - [2021 社課資源](https://github.com/jonafk555/2021Thu_Hackers_Club_WebSec)
 
 ### 教育部資訊安全人才培育計畫推動辦公室
-- AIS3 新型態資安暑期課程
+- [AIS3 新型態資安暑期課程](https://ais3.org)
 - 臺灣好厲駭
-- 高中職生資安研習營
+- [高中職生資安研習營](https://www.facebook.com/高中職生資安研習營-455550404836569/)
 
 ### 交通大學網路安全策進會 Bamboofox
 - [108 學年度上學期社課](https://bamboofox.cs.nctu.edu.tw/courses/7/materials)
