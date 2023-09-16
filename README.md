@@ -70,6 +70,11 @@
 ### 輔仁大學資訊安全研討會 NISRA(Network and Information Security Research Association)
 - [NISRA 基礎資安漏洞靶機](https://github.com/N15RA/nisra-target-drone)
 
+### 中央大學CTF暨資安研究讀書會 NCtfU
+- CTF & Cybersecurity Club in NCU. Since 2020.
+- [NCtfU CTFd CTF練習平臺](https://ctfd.nctfu.csie.ncu.edu.tw/challenges)
+- [Facebook link](https://www.facebook.com/nctfu)
+
 ### 中山大學資安社
 - 社團成立約 2 年，目前暫無資安特定主軸。
 - [Facebook link](https://www.facebook.com/nsysuisc/)
