@@ -54,7 +54,7 @@
 ### 逢甲大學黑客社
 
 ### 東海大學駭客社
-- [2021 社課資源](https://github.com/jonafk555/2021Thu_Hackers_Club_WebSec)
+- [2021 社課資源](https://github.com/jonafk555/My-Security-Slides/tree/main/2021-THU-Hackers-club-web)
 
 ### 教育部資訊安全人才培育計畫推動辦公室
 - [AIS3 新型態資安暑期課程](https://ais3.org)
